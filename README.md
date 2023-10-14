@@ -7,3 +7,5 @@ This is a scrapped demo. This repository includes revisions from all three of us
 
 The main concept of this game is to use different colored guns to destroy the respective enemies. ( i.e. green gun can only destroy green robot, blue gun can only destroy blue robot, etc. )
 We played around with different assets and different mechanics, ultimnately having to create a small part of the engine in order to calculate where the ammo would go when the gun circles ( mouse movement around the player ) the character at various speeds ( while moving the player with arrow keys ).
+
+As a reminder, please remember that this was DISCONTINUED, and may be very broken from what we turned in as a final project.
